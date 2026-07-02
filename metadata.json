@@ -1,0 +1,6 @@
+{
+  "name": "GREENEYE",
+  "description": "Nền tảng số tiên phong tích hợp giải pháp xanh toàn diện hướng tới Net Zero",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
